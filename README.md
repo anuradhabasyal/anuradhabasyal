@@ -14,7 +14,7 @@ I'm a **Bioinformatician** dedicated to analyzing complex biological data to dri
 [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![SQL](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
+[![SQL](https://skillicons.dev/icons?i=sql)](https://skillicons.dev) 
 
 - **Python:** `pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `scikit-learn`
 - **R:** `Seurat`, `ggplot2`, `RShiny`, `Bioconductor`
