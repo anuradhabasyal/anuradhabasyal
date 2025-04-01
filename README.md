@@ -1,4 +1,4 @@
-# Hi there, I'm Anuradha Basyal 👋
+# Hi there, I'm Anu! 👋
 
 I'm a **Bioinformatician** dedicated to analyzing complex biological data to drive discoveries in genomics, proteomics, and systems biology. I blend biology with computational techniques to extract actionable insights from intricate datasets.
 
@@ -14,6 +14,7 @@ I'm a **Bioinformatician** dedicated to analyzing complex biological data to dri
 [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![SQL](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
 
 - **Python:** `pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `scikit-learn`
 - **R:** `Seurat`, `ggplot2`, `RShiny`, `Bioconductor`
